@@ -1,0 +1,62 @@
+.main-container {
+    width: 128px;
+    height: 246px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.12);
+    border-radius: 12px;
+    margin-left: 45%;
+    margin-top: 50px;
+}
+
+.image-container {
+    height: 128px;
+    width: 128px;
+    background-color: #EEF1FF;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-div {
+    width: 74px;
+    height: 89px;
+}
+
+.card-bottom {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text-div {
+    width: 77px;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+
+.item-heading {
+    text-align: left;
+}
+.item-heading p {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+
+.price-div {
+    text-align: left;
+}
+
+.price-div p {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    float: left;
+}
+
+.actual-price {
+    margin-left: 3px;
+    text-decoration: line-through;
+}
+
+
+

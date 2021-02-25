@@ -1,0 +1,11 @@
+.arrow-icon {
+    background-color: #F0F5FF;
+    width: 18px;
+    height: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    margin-left: 9px;
+    margin-top: 12px;
+}
